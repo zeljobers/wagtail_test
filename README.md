@@ -12,4 +12,4 @@ cd mysite
 pip install -r requirements.txt
 python manage.py runserver
 ```
-Content here has a lot of jubberish text so don't take this seriousely. Just wanted to see how this works.
+Content here has a lot of gibberish text so don't take this seriousely. Just wanted to see how this works.
